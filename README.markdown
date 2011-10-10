@@ -11,7 +11,7 @@ I'm going to talk about the features *I* consider important, so this guide might
 
 I've separated it on 7 reasons (this number might vary):
 
-  1. Java Integration
+  1. [Java Integration](https://github.com/fernandezpablo85/reasons-to-adopt-scala-now/tree/master/src/main/scala/org/example/scala/reason1)
   2. Better Separation of Concerns with Traits [in progress]
   3. Type Inference (where is it helpful?) [in progress]
   4. Functions are "first class citizens" (What does this mean? and why does it matter?) [in progress]
