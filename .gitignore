@@ -1,0 +1,8 @@
+# binaries
+target
+
+# sbt files
+project/boot/
+
+# idea files
+.idea*
