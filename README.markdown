@@ -7,7 +7,7 @@ Also, everyone seems to be talking about some particular features of Scala, like
 
 This guide tries to answer a simple question: "What does scala bring to the table, right now, to my existing java applications?".
 
-I'm going to talk about the features *I* consider important, so this guide might be biased. Hopefully someone else will find this useful to give scala a shot, or to convince his/her boss to do it.
+I'm going to talk about the features **I** consider important, so this guide might be biased. Hopefully someone else will find this useful to give scala a shot, or to convince his/her boss to do it.
 
 I've separated it on 7 reasons (this number might vary):
 
